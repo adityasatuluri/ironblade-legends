@@ -4,6 +4,9 @@
 Ironblade Legends is an pc game made with buildbox software.
 
 -------------------------------------------------------------
+GAME SIZE: 91.2 MB
+
+-------------------------------------------------------------
 
 CONTROLS:
 
