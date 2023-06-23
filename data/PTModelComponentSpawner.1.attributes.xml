@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>ROOT</key>
+        <array>
+            <dict>
+                <key>id</key>
+                <string>17820</string>
+                <key>className</key>
+                <string>PTModelComponentSpawner</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Spawner</string>
+                </dict>
+                <key>Spawn Rate</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.250000</string>
+                </dict>
+                <key>Spawn Action</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kShootingSpawning</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>17829</string>
+                <key>className</key>
+                <string>PTModelComponentSpawner</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Spawner</string>
+                </dict>
+                <key>Spawn Rate</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.250000</string>
+                </dict>
+                <key>Spawn Action</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kShootingSpawning</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>17838</string>
+                <key>className</key>
+                <string>PTModelComponentSpawner</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Spawner</string>
+                </dict>
+                <key>Spawn Rate</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.250000</string>
+                </dict>
+                <key>Spawn Action</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kShootingSpawning</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>17847</string>
+                <key>className</key>
+                <string>PTModelComponentSpawner</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Spawner</string>
+                </dict>
+                <key>Spawn Rate</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.250000</string>
+                </dict>
+                <key>Spawn Action</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kShootingSpawning</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>17856</string>
+                <key>className</key>
+                <string>PTModelComponentSpawner</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Spawner</string>
+                </dict>
+                <key>Spawn Rate</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.250000</string>
+                </dict>
+                <key>Spawn Action</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kShootingSpawning</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>17867</string>
+                <key>className</key>
+                <string>PTModelComponentSpawner</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Spawner</string>
+                </dict>
+                <key>Spawn Rate</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.250000</string>
+                </dict>
+                <key>Spawn Action</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kShootingSpawning</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>17892</string>
+                <key>className</key>
+                <string>PTModelComponentSpawner</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Spawner</string>
+                </dict>
+                <key>Spawn Rate</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.250000</string>
+                </dict>
+                <key>Spawn Action</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kShootingSpawning</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>17901</string>
+                <key>className</key>
+                <string>PTModelComponentSpawner</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Spawner</string>
+                </dict>
+                <key>Spawn Rate</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.250000</string>
+                </dict>
+                <key>Spawn Action</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kShootingSpawning</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>17910</string>
+                <key>className</key>
+                <string>PTModelComponentSpawner</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Spawner</string>
+                </dict>
+                <key>Spawn Rate</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.250000</string>
+                </dict>
+                <key>Spawn Action</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kShootingSpawning</string>
+                </dict>
+            </dict>
+        </array>
+    </dict>
+</plist>
