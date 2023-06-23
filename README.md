@@ -2,6 +2,12 @@
 2D interactive pc game.
 
 Ironblade Legends is an pc game made with buildbox software.
+
+-------------------------------------------------------------
+
+CONTROLS:
+
+
 -------------------------------------------------------------
 
 SYSTEM REQUIREMENTS(recommended):
