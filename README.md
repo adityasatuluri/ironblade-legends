@@ -60,6 +60,8 @@ To download a GitHub repository, you must first start by navigating to the repos
 
 Alternatively, if you have the URL of your repository, you can copy and paste that into your browser. 
 
+Fork the repository.
+
 Once you have your desired repository open, click the small arrow on the green Code button at the top right of the repo contents. From here, select Download Zip. This will download the entire GitHub repository as a zipped folder. 
 ![image](https://github.com/adityasatuluri/ironblade-legends/assets/118589224/9f02f54a-6df1-473b-90fa-f3d6389210ae)
 
